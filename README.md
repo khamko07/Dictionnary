@@ -60,3 +60,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 © 2024 Khamko. All rights reserved.
+
+## Demo
+Link: https://khamko07.github.io/Dictionnary/
